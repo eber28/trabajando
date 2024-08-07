@@ -24,3 +24,4 @@ el admistrador va ser el que se encarga de que no hayga  un desorden en la hora 
 ![alt text](image-4.png)                           
 ## PATRON DE ARQUITECTURA
 ![alt text](image-5.png) 
+.
